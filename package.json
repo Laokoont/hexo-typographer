@@ -1,0 +1,20 @@
+{
+  "name": "hexo-typographer",
+  "version": "1.0.0",
+  "description": "A Hexo plugin for filtering html pages and posts for better typography",
+  "main": "index.js",
+  "scripts": {
+    "test": "hexo-typo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "hexo-typo"
+  },
+  "keywords": [
+    "hexo",
+    "filter",
+    "typography"
+  ],
+  "author": "Alexander Nachasic",
+  "license": "MIT"
+}
