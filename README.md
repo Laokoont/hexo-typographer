@@ -19,5 +19,5 @@ typographer:
 ```
 
 
-- **lang** Sets the language: currently English (`'eng'`) and Russian (`'ru'`) are supported;
+- **lang** Sets the language: currently English (`'en'`) and Russian (`'ru'`) are supported;
 - **enableHangingPunctuation** Enables hanging punctuation
