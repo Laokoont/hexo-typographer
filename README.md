@@ -14,6 +14,7 @@ npm install hexo-typographer -S
 You can configure the plugin by adding some code to the `_config.yml` of your site:
 ```yml
 typographer:
+    enable: true
     lang: 'ru'
     enableHangingPunctuation: true
 ```
