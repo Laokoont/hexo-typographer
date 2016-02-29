@@ -18,6 +18,7 @@
   "author": "Alexander Nachasic",
   "license": "MIT",
   "dependencies": {
+    "cheerio": "^0.20.0",
     "typograf": "^5.0.0"
   }
 }
