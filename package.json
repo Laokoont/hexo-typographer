@@ -16,5 +16,8 @@
     "typography"
   ],
   "author": "Alexander Nachasic",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "typograf": "^5.0.0"
+  }
 }
